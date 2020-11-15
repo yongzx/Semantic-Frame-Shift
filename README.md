@@ -30,4 +30,4 @@ The folder `evaluation/` contains two Jupyter notebooks that illustrate the five
 - `evaluation/UMAP_frame_embeddings.ipynb`: UMAP representations of semantic frame embeddings with pre-trained models.
 
 ---
-This repository contains all the elements required in the [Reproducibility Checklist](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf)
+This repository contains all the elements required in the code section of the  [Reproducibility Checklist](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf). 
