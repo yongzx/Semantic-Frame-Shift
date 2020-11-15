@@ -1,0 +1,1673 @@
+===============================
+====Annotation (`annoID` = 2431)====
+text: If you're at a dinner party, and you say you work in education -- 
+frameName: Conditional_occurrence
+frameID: 1192
+luName: if.scon
+luID: 26122
+lu_idx: [(0, 1, 1)]
+fe_idx: [(3, 61, 'Profiled_possibility', 11106), (-1, -1, 'Consequence', 11107)]
+tokenized_text: If you 're at a dinner party , and you say you work in education --
+tokenized_lu_idx: ['if.scon', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['Conditional_occurrence', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', '-']
+
+====Annotation (`annoID` = 9695)====
+text: Wenn Sie auf einer Dinner-Party sind und erzählen, dass sie im Bildungswesen arbeiten -- offen gesagt, ist man nicht oft bei Dinner-Parties, wenn man im Bildungswesen arbeitet.
+frameName: Conditional_occurrence
+frameID: 1192
+luName: wenn.c
+luID: 29490
+lu_idx: [(0, 3, 1577)]
+fe_idx: [(5, 84, 'Profiled_possibility', 11106)]
+tokenized_text: Wenn Sie auf einer Dinner-Party sind und erzählen , dass sie im Bildungswesen arbeiten -- offen gesagt , ist man nicht oft bei Dinner-Parties , wenn man im Bildungswesen arbeitet .
+tokenized_lu_idx: ['wenn.c', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['Conditional_occurrence', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+===============================
+====Annotation (`annoID` = 4403)====
+text: No idea how this may play out.
+frameName: Awareness
+frameID: 14
+luName: idea.n
+luID: 12788
+lu_idx: [(3, 6, 1)]
+fe_idx: [(8, 28, 'Content', 58), (-1, -1, 'Cognizer', 57)]
+tokenized_text: No idea how this may play out .
+tokenized_lu_idx: ['-', 'idea.n', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', 'Awareness', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', 'Content', 'Content', 'Content', 'Content', 'Content', '-']
+
+====Annotation (`annoID` = 9690)====
+text: Keine Ahnung, wie das enden wird.
+frameName: Awareness
+frameID: 14
+luName: keine Ahnung haben.v
+luID: 29337
+lu_idx: [(6, 11, 1577)]
+fe_idx: [(0, 4, 'Degree', 638), (14, 31, 'Topic', 60)]
+tokenized_text: Keine Ahnung , wie das enden wird .
+tokenized_lu_idx: ['-', 'keine Ahnung haben.v', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', 'Awareness', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['Degree', '-', '-', 'Topic', 'Topic', 'Topic', 'Topic', '-']
+
+===============================
+====Annotation (`annoID` = 2523)====
+text: Nobody has a clue, despite all the expertise that's been on parade for the past four days, what the world will look like in five years' time.
+frameName: Awareness
+frameID: 14
+luName: clue.n
+luID: 26698
+lu_idx: [(13, 16, 1)]
+fe_idx: [(0, 5, 'Cognizer', 57), (91, 139, 'Content', 58)]
+tokenized_text: Nobody has a clue , despite all the expertise that 's been on parade for the past four days , what the world will look like in five years' time .
+tokenized_lu_idx: ['-', '-', '-', 'clue.n', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', 'Awareness', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['Cognizer', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Content', 'Content', 'Content', 'Content', 'Content', 'Content', 'Content', 'Content', 'Content', 'Content', '-']
+
+====Annotation (`annoID` = 9096)====
+text: Keiner hat eine Ahnung, trotz jeglicher Expertise, die wir die letzten vier Tage erleben durften, wie die Welt in fünf Jahren aussehen wird.
+frameName: Awareness
+frameID: 14
+luName: eine Ahnung haben.v
+luID: 29339
+lu_idx: [(7, 9, 1577), (11, 14, 1577), (16, 21, 1577)]
+fe_idx: [(98, 138, 'Content', 58), (0, 5, 'Cognizer', 57)]
+tokenized_text: Keiner hat eine Ahnung , trotz jeglicher Expertise , die wir die letzten vier Tage erleben durften , wie die Welt in fünf Jahren aussehen wird .
+tokenized_lu_idx: ['-', 'eine Ahnung haben.v', 'eine Ahnung haben.v', 'eine Ahnung haben.v', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', 'Awareness', 'Awareness', 'Awareness', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['Cognizer', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Content', 'Content', 'Content', 'Content', 'Content', 'Content', 'Content', 'Content', '-']
+
+===============================
+====Annotation (`annoID` = 2432)====
+text: It's been great, hasn't it?
+frameName: Desirability
+frameID: 326
+luName: great.a
+luID: 19972
+lu_idx: [(10, 14, 1)]
+fe_idx: [(0, 1, 'Evaluee', 2309), (24, 25, 'Evaluee', 2309)]
+tokenized_text: It 's been great , has n't it ?
+tokenized_lu_idx: ['-', '-', '-', 'great.a', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', 'Desirability', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['Evaluee', '-', '-', '-', '-', '-', '-', 'Evaluee', '-']
+
+====Annotation (`annoID` = 9246)====
+text: Es war großartig, nicht wahr?
+frameName: Desirability
+frameID: 326
+luName: großartig.a
+luID: 29471
+lu_idx: [(7, 15, 1577)]
+fe_idx: [(0, 1, 'Evaluee', 2309)]
+tokenized_text: Es war großartig , nicht wahr ?
+tokenized_lu_idx: ['-', '-', 'großartig.a', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', 'Desirability', '-', '-', '-', '-']
+tokenized_fe_idx: ['Evaluee', '-', '-', '-', '-', '-', '-']
+
+===============================
+====Annotation (`annoID` = 4062)====
+text: And the teacher said, 'But nobody knows what God looks like.'
+frameName: Education_teaching
+frameID: 101
+luName: teacher.n
+luID: 15849
+lu_idx: [(8, 14, 1)]
+fe_idx: [(8, 14, 'Teacher', 431), (-1, -1, 'Subject', 434), (-1, -1, 'Student', 432)]
+tokenized_text: And the teacher said , ' But nobody knows what God looks like . '
+tokenized_lu_idx: ['-', '-', 'teacher.n', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', 'Education_teaching', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', 'Teacher', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+====Annotation (`annoID` = 9343)====
+text: Und die Lehrerin sagte: 'Aber niemand weiß, wie Gott aussieht.'
+frameName: Education_teaching
+frameID: 101
+luName: lehrerin.n
+luID: 29531
+lu_idx: [(8, 15, 1577)]
+fe_idx: []
+tokenized_text: Und die Lehrerin sagte : ' Aber niemand weiß , wie Gott aussieht . '
+tokenized_lu_idx: ['-', '-', 'lehrerin.n', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', 'Education_teaching', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+===============================
+====Annotation (`annoID` = 2502)====
+text: Just seeing what she could do.
+frameName: Perception_experience
+frameID: 64
+luName: see.v
+luID: 14689
+lu_idx: [(5, 10, 1)]
+fe_idx: [(12, 28, 'Phenomenon', 288), (-1, -1, 'Perceiver_passive', 287)]
+tokenized_text: Just seeing what she could do .
+tokenized_lu_idx: ['-', 'see.v', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', 'Perception_experience', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', 'Phenomenon', 'Phenomenon', 'Phenomenon', 'Phenomenon', '-']
+
+====Annotation (`annoID` = 9718)====
+text: Allein zu sehen, wozu sie in der Lage ist.
+frameName: Perception_experience
+frameID: 64
+luName: sehen.v
+luID: 29492
+lu_idx: [(10, 14, 1577)]
+fe_idx: [(17, 40, 'Phenomenon', 288)]
+tokenized_text: Allein zu sehen , wozu sie in der Lage ist .
+tokenized_lu_idx: ['-', '-', 'sehen.v', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', 'Perception_experience', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', 'Phenomenon', 'Phenomenon', 'Phenomenon', 'Phenomenon', 'Phenomenon', 'Phenomenon', '-']
+
+===============================
+====Annotation (`annoID` = 4225)====
+text: And she's exceptional, but I think she's not, so to speak, exceptional in the whole of childhood.
+frameName: Opinion
+frameID: 642
+luName: think.v
+luID: 23709
+lu_idx: [(29, 33, 1)]
+fe_idx: [(35, 95, 'Opinion', 5229), (27, 27, 'Cognizer', 5228)]
+tokenized_text: And she 's exceptional , but I think she 's not , so to speak , exceptional in the whole of childhood .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', 'think.v', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', 'Opinion', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', 'Cognizer', '-', 'Opinion', 'Opinion', 'Opinion', 'Opinion', 'Opinion', 'Opinion', 'Opinion', 'Opinion', 'Opinion', 'Opinion', 'Opinion', 'Opinion', 'Opinion', 'Opinion', '-']
+
+====Annotation (`annoID` = 10708)====
+text: Sie ist außergewöhnlich, aber ich denke, sie ist nicht, sozusagen, außergewöhnlich in Bezug auf die Gesamtheit aller Kinder.
+frameName: Opinion
+frameID: 642
+luName: denken.v
+luID: 29772
+lu_idx: [(34, 38, 1577)]
+fe_idx: [(30, 32, 'Cognizer', 5228)]
+tokenized_text: Sie ist außergewöhnlich , aber ich denke , sie ist nicht , sozusagen , außergewöhnlich in Bezug auf die Gesamtheit aller Kinder .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', 'denken.v', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', 'Opinion', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', 'Cognizer', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+===============================
+====Annotation (`annoID` = 2534)====
+text: So I want to talk about education and I want to talk about creativity.
+frameName: Education_teaching
+frameID: 101
+luName: education.n
+luID: 15868
+lu_idx: [(24, 32, 1)]
+fe_idx: []
+tokenized_text: So I want to talk about education and I want to talk about creativity .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', 'education.n', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', 'Education_teaching', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+====Annotation (`annoID` = 9314)====
+text: Ich möchte also über Bildung und Kreativität sprechen.
+frameName: Education_teaching
+frameID: 101
+luName: bildung.n
+luID: 29338
+lu_idx: [(21, 27, 1577)]
+fe_idx: []
+tokenized_text: Ich möchte also über Bildung und Kreativität sprechen .
+tokenized_lu_idx: ['-', '-', '-', '-', 'bildung.n', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', 'Education_teaching', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+===============================
+====Annotation (`annoID` = 4267)====
+text: So the unpredictability, I think, is extraordinary.
+frameName: Stimulus_focus
+frameID: 336
+luName: extraordinary.a
+luID: 27212
+lu_idx: [(37, 49, 1)]
+fe_idx: [(3, 22, 'Stimulus', 2400)]
+tokenized_text: So the unpredictability , I think , is extraordinary .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', 'extraordinary.a', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', 'Stimulus_focus', '-']
+tokenized_fe_idx: ['-', 'Stimulus', 'Stimulus', '-', '-', '-', '-', '-', '-', '-']
+
+====Annotation (`annoID` = 9299)====
+text: Die Unvorhersagbarkeit ist, finde ich, atemberaubend.
+frameName: Stimulus_focus
+frameID: 336
+luName: atemberaubend.a
+luID: 29512
+lu_idx: [(39, 51, 1577)]
+fe_idx: [(0, 21, 'Stimulus', 2400)]
+tokenized_text: Die Unvorhersagbarkeit ist , finde ich , atemberaubend .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', 'atemberaubend.a', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', 'Stimulus_focus', '-']
+tokenized_fe_idx: ['Stimulus', 'Stimulus', '-', '-', '-', '-', '-', '-', '-']
+
+===============================
+====Annotation (`annoID` = 2165)====
+text: There have been three themes running through the conference which are relevant to what I want to talk about.
+frameName: Topic
+frameID: 343
+luName: theme.n
+luID: 20467
+lu_idx: [(22, 27, 1)]
+fe_idx: [(22, 27, 'Topic', 2452)]
+tokenized_text: There have been three themes running through the conference which are relevant to what I want to talk about .
+tokenized_lu_idx: ['-', '-', '-', '-', 'theme.n', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', 'Topic', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', 'Topic', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+====Annotation (`annoID` = 10370)====
+text: Es gab drei Leitmotive, die sich durch die Konferenz zogen, die wichtig sind für das, worüber ich sprechen will.
+frameName: Topic
+frameID: 343
+luName: drei Leitmotive.n
+luID: 29850
+lu_idx: [(12, 21, 1577), (7, 10, 1577)]
+fe_idx: [(39, 51, 'Text', 2453)]
+tokenized_text: Es gab drei Leitmotive , die sich durch die Konferenz zogen , die wichtig sind für das , worüber ich sprechen will .
+tokenized_lu_idx: ['-', '-', 'drei Leitmotive.n', 'drei Leitmotive.n', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', 'Topic', 'Topic', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', 'Text', 'Text', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+===============================
+====Annotation (`annoID` = 4111)====
+text: But if you are, and you say to somebody, you know, they say, 'What do you do?'and you say you work in education, you can see the blood run from their face.
+frameName: Conditional_occurrence
+frameID: 1192
+luName: if.scon
+luID: 26122
+lu_idx: [(4, 5, 1)]
+fe_idx: [(7, 110, 'Profiled_possibility', 11106), (113, 153, 'Consequence', 11107)]
+tokenized_text: But if you are , and you say to somebody , you know , they say , ' What do you do ?' and you say you work in education , you can see the blood run from their face .
+tokenized_lu_idx: ['-', 'if.scon', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', 'Conditional_occurrence', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', '-', 'Consequence', 'Consequence', 'Consequence', 'Consequence', 'Consequence', 'Consequence', 'Consequence', 'Consequence', 'Consequence', '-']
+
+====Annotation (`annoID` = 10376)====
+text: Sind Sie aber eingeladen und reden mit jemandem, also wenn jemand fragt: 'Was machen Sie so?'und Sie: 'Ich arbeite im Bildungswesen', sieht man, wie den anderen das Blut aus dem Gesicht weicht.
+frameName: Conditional_occurrence
+frameID: 1192
+luName: sind sie.v
+luID: 29856
+lu_idx: [(5, 7, 1577), (0, 3, 1577)]
+fe_idx: [(0, 46, 'Profiled_possibility', 11106), (134, 191, 'Consequence', 11107)]
+tokenized_text: Sind Sie aber eingeladen und reden mit jemandem , also wenn jemand fragt : ' Was machen Sie so ?' und Sie : ' Ich arbeite im Bildungswesen ' , sieht man , wie den anderen das Blut aus dem Gesicht weicht .
+tokenized_lu_idx: ['sind sie.v', 'sind sie.v', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['Conditional_occurrence', 'Conditional_occurrence', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', 'Profiled_possibility', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Consequence', 'Consequence', 'Consequence', 'Consequence', 'Consequence', 'Consequence', 'Consequence', 'Consequence', 'Consequence', 'Consequence', 'Consequence', 'Consequence', '-']
+
+===============================
+====Annotation (`annoID` = 4498)====
+text: We have a huge vested interest in it, partly because it's education that's meant to take us into this future that we can't grasp.
+frameName: Size
+frameID: 997
+luName: huge.a
+luID: 25299
+lu_idx: [(10, 13, 1)]
+fe_idx: [(15, 29, 'Entity', 9411)]
+tokenized_text: We have a huge vested interest in it , partly because it 's education that 's meant to take us into this future that we ca n't grasp .
+tokenized_lu_idx: ['-', '-', '-', 'huge.a', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', 'Size', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', 'Entity', 'Entity', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+====Annotation (`annoID` = 10817)====
+text: Wir haben ein großes, persönliches Interesse, teilweise Bildung dazu gedacht ist, uns in diese Zukunft zu bringen, die wir nicht fassen können.
+frameName: Size
+frameID: 997
+luName: groß.a
+luID: 29502
+lu_idx: [(14, 19, 1577)]
+fe_idx: [(35, 43, 'Entity', 9411)]
+tokenized_text: Wir haben ein großes , persönliches Interesse , teilweise Bildung dazu gedacht ist , uns in diese Zukunft zu bringen , die wir nicht fassen können .
+tokenized_lu_idx: ['-', '-', '-', 'groß.a', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', 'Size', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', 'Entity', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+===============================
+====Annotation (`annoID` = 2503)====
+text: Just seeing what she could do.
+frameName: Capability
+frameID: 496
+luName: can.v
+luID: 22693
+lu_idx: [(21, 25, 1)]
+fe_idx: [(17, 19, 'Entity', 3999), (27, 28, 'Event', 4000), (12, 15, 'Event', 4000)]
+tokenized_text: Just seeing what she could do .
+tokenized_lu_idx: ['-', '-', '-', '-', 'can.v', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', 'Capability', '-', '-']
+tokenized_fe_idx: ['-', '-', 'Event', 'Entity', '-', 'Event', '-']
+
+====Annotation (`annoID` = 9097)====
+text: Allein zu sehen, wozu sie in der Lage ist.
+frameName: Capability
+frameID: 496
+luName: in der Lage sein.v
+luID: 29340
+lu_idx: [(38, 40, 1577), (33, 36, 1577), (29, 31, 1577), (26, 27, 1577)]
+fe_idx: [(17, 20, 'Event', 4000), (22, 24, 'Entity', 3999)]
+tokenized_text: Allein zu sehen , wozu sie in der Lage ist .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', 'in der Lage sein.v', 'in der Lage sein.v', 'in der Lage sein.v', 'in der Lage sein.v', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', 'Capability', 'Capability', 'Capability', 'Capability', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', 'Event', 'Entity', '-', '-', '-', '-', '-']
+
+===============================
+====Annotation (`annoID` = 4056)====
+text: Well, I was born...no.
+frameName: Being_born
+frameID: 459
+luName: born.v
+luID: 22272
+lu_idx: [(12, 15, 1)]
+fe_idx: [(6, 6, 'Child', 3778)]
+tokenized_text: Well , I was born ... no .
+tokenized_lu_idx: ['-', '-', '-', '-', 'born.v', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', 'Being_born', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', 'Child', '-', '-', '-', '-', '-']
+
+====Annotation (`annoID` = 9323)====
+text: Okay, ich wurde geboren am … Nein.
+frameName: Being_born
+frameID: 459
+luName: gebären.v
+luID: 29525
+lu_idx: [(16, 22, 1577)]
+fe_idx: [(6, 8, 'Child', 3778), (24, 25, 'Time', 3779)]
+tokenized_text: Okay , ich wurde geboren am … Nein .
+tokenized_lu_idx: ['-', '-', '-', '-', 'gebären.v', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', 'Being_born', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', 'Child', '-', '-', 'Time', '-', '-', '-']
+
+===============================
+====Annotation (`annoID` = 4253)====
+text: So I have a big interest in education, and I think we all do.
+frameName: Emotion_directed
+frameID: 40
+luName: interest.n
+luID: 13643
+lu_idx: [(16, 23, 1)]
+fe_idx: [(12, 14, 'Degree', 1251), (3, 3, 'Experiencer', 163), (25, 36, 'Topic', 164)]
+tokenized_text: So I have a big interest in education , and I think we all do .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', 'interest.n', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', 'Emotion_directed', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', 'Experiencer', '-', '-', 'Degree', '-', 'Topic', 'Topic', '-', '-', '-', '-', '-', '-', '-', '-']
+
+====Annotation (`annoID` = 9162)====
+text: Ich habe ein großes Interesse an Bildung, und ich denke, das haben wir alle.
+frameName: Emotion_directed
+frameID: 40
+luName: Interesse haben an.v
+luID: 29370
+lu_idx: [(20, 28, 1577), (30, 31, 1577), (4, 7, 1577)]
+fe_idx: [(13, 18, 'Degree', 1251), (0, 2, 'Experiencer', 163), (30, 39, 'Topic', 164)]
+tokenized_text: Ich habe ein großes Interesse an Bildung , und ich denke , das haben wir alle .
+tokenized_lu_idx: ['-', 'Interesse haben an.v', '-', '-', 'Interesse haben an.v', 'Interesse haben an.v', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', 'Emotion_directed', '-', '-', 'Emotion_directed', 'Emotion_directed', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['Experiencer', '-', '-', 'Degree', '-', 'Topic', 'Topic', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+===============================
+====Annotation (`annoID` = 4266)====
+text: So the unpredictability, I think, is extraordinary.
+frameName: Expectation
+frameID: 21
+luName: unpredictability.n
+luID: 27211
+lu_idx: [(7, 22, 1)]
+fe_idx: [(-1, -1, 'Topic', 6699), (-1, -1, 'Cognizer', 83)]
+tokenized_text: So the unpredictability , I think , is extraordinary .
+tokenized_lu_idx: ['-', '-', 'unpredictability.n', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', 'Expectation', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+====Annotation (`annoID` = 10381)====
+text: Die Unvorhersagbarkeit ist, finde ich, atemberaubend.
+frameName: Expectation
+frameID: 21
+luName: die Unvorhersagbarkeit.n
+luID: 29862
+lu_idx: [(4, 21, 1577), (0, 2, 1577)]
+fe_idx: []
+tokenized_text: Die Unvorhersagbarkeit ist , finde ich , atemberaubend .
+tokenized_lu_idx: ['die Unvorhersagbarkeit.n', 'die Unvorhersagbarkeit.n', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['Expectation', 'Expectation', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+===============================
+====Annotation (`annoID` = 4504)====
+text: He was in the Nativity play.
+frameName: Performers_and_roles
+frameID: 382
+luName: be.v
+luID: 21094
+lu_idx: [(3, 5, 1)]
+fe_idx: [(7, 26, 'Performance', 2871), (0, 1, 'Performer', 2872)]
+tokenized_text: He was in the Nativity play .
+tokenized_lu_idx: ['-', 'be.v', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', 'Performers_and_roles', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['Performer', '-', 'Performance', 'Performance', 'Performance', 'Performance', '-']
+
+====Annotation (`annoID` = 9355)====
+text: Er spielte im Krippenspiel mit.
+frameName: Performers_and_roles
+frameID: 382
+luName: spielen.v
+luID: 29545
+lu_idx: [(3, 9, 1577)]
+fe_idx: [(11, 25, 'Performance', 2871), (0, 1, 'Performer', 2872)]
+tokenized_text: Er spielte im Krippenspiel mit .
+tokenized_lu_idx: ['-', 'spielen.v', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', 'Performers_and_roles', '-', '-', '-', '-']
+tokenized_fe_idx: ['Performer', '-', 'Performance', 'Performance', '-', '-']
+
+===============================
+====Annotation (`annoID` = 2533)====
+text: So I want to talk about education and I want to talk about creativity.
+frameName: Desiring
+frameID: 338
+luName: want.v
+luID: 20296
+lu_idx: [(5, 8, 1)]
+fe_idx: [(10, 32, 'Event', 2469), (3, 3, 'Experiencer', 2467)]
+tokenized_text: So I want to talk about education and I want to talk about creativity .
+tokenized_lu_idx: ['-', '-', 'want.v', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', 'Desiring', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', 'Experiencer', '-', 'Event', 'Event', 'Event', 'Event', '-', '-', '-', '-', '-', '-', '-', '-']
+
+====Annotation (`annoID` = 9313)====
+text: Ich möchte also über Bildung und Kreativität sprechen.
+frameName: Desiring
+frameID: 338
+luName: mögen.v
+luID: 29519
+lu_idx: [(4, 9, 1577)]
+fe_idx: [(45, 52, 'Event', 2469), (16, 44, 'Event', 2469), (0, 2, 'Experiencer', 2467)]
+tokenized_text: Ich möchte also über Bildung und Kreativität sprechen .
+tokenized_lu_idx: ['-', 'mögen.v', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', 'Desiring', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['Experiencer', '-', '-', 'Event', 'Event', 'Event', 'Event', 'Event', '-']
+
+===============================
+====Annotation (`annoID` = 2543)====
+text: If you work in education, you're not asked.
+frameName: Negation
+frameID: 1186
+luName: not.adv
+luID: 26066
+lu_idx: [(33, 35, 1)]
+fe_idx: [(37, 41, 'Negated_proposition', 11073), (26, 31, 'Negated_proposition', 11073)]
+tokenized_text: If you work in education , you 're not asked .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', 'not.adv', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', 'Negation', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', 'Negated_proposition', 'Negated_proposition', '-', 'Negated_proposition', '-']
+
+====Annotation (`annoID` = 10375)====
+text: Man wird erst gar nicht eingeladen.
+frameName: Negation
+frameID: 1186
+luName: gar nicht.adv
+luID: 29855
+lu_idx: [(14, 16, 1577), (18, 22, 1577)]
+fe_idx: [(0, 7, 'Negated_proposition', 11073), (24, 33, 'Negated_proposition', 11073)]
+tokenized_text: Man wird erst gar nicht eingeladen .
+tokenized_lu_idx: ['-', '-', '-', 'gar nicht.adv', 'gar nicht.adv', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', 'Negation', 'Negation', '-', '-']
+tokenized_fe_idx: ['Negated_proposition', 'Negated_proposition', '-', '-', '-', 'Negated_proposition', '-']
+
+===============================
+====Annotation (`annoID` = 4277)====
+text: And she's exceptional, but I think she's not, so to speak, exceptional in the whole of childhood.
+frameName: Typicality
+frameID: 541
+luName: exceptional.a
+luID: 27216
+lu_idx: [(10, 20, 1)]
+fe_idx: [(4, 6, 'State_of_affairs', 4374)]
+tokenized_text: And she 's exceptional , but I think she 's not , so to speak , exceptional in the whole of childhood .
+tokenized_lu_idx: ['-', '-', '-', 'exceptional.a', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', 'Typicality', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', 'State_of_affairs', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+====Annotation (`annoID` = 10781)====
+text: Sie ist außergewöhnlich, aber ich denke, sie ist nicht, sozusagen, außergewöhnlich in Bezug auf die Gesamtheit aller Kinder.
+frameName: Typicality
+frameID: 541
+luName: außergewöhnlich.a
+luID: 29782
+lu_idx: [(8, 22, 1577)]
+fe_idx: []
+tokenized_text: Sie ist außergewöhnlich , aber ich denke , sie ist nicht , sozusagen , außergewöhnlich in Bezug auf die Gesamtheit aller Kinder .
+tokenized_lu_idx: ['-', '-', 'außergewöhnlich.a', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', 'Typicality', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+===============================
+====Annotation (`annoID` = 4283)====
+text: My contention is that creativity now is as important in education as literacy, and we should treat it with the same status.
+frameName: Importance
+frameID: 376
+luName: important.a
+luID: 21016
+lu_idx: [(43, 51, 1)]
+fe_idx: [(66, 76, 'Degree', 2836), (53, 64, 'Field', 2854), (22, 31, 'Factor', 2835), (40, 41, 'Degree', 2836)]
+tokenized_text: My contention is that creativity now is as important in education as literacy , and we should treat it with the same status .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', 'important.a', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', 'Importance', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', 'Factor', '-', '-', 'Degree', '-', 'Field', 'Field', 'Degree', 'Degree', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+====Annotation (`annoID` = 9318)====
+text: Meine Überzeugung ist, dass Kreativität heute genauso wichtig für Bildung ist, wie Lesen und Schreiben, und wir sollten sie gleichwertig behandeln.
+frameName: Importance
+frameID: 376
+luName: wichtig.a
+luID: 29521
+lu_idx: [(54, 60, 1577)]
+fe_idx: [(62, 72, 'Field', 2854), (40, 44, 'Time', 6896), (28, 38, 'Factor', 2835)]
+tokenized_text: Meine Überzeugung ist , dass Kreativität heute genauso wichtig für Bildung ist , wie Lesen und Schreiben , und wir sollten sie gleichwertig behandeln .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', 'wichtig.a', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', 'Importance', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', 'Factor', 'Time', '-', '-', 'Field', 'Field', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+===============================
+====Annotation (`annoID` = 4523)====
+text: They just switched.
+frameName: Exchange
+frameID: 563
+luName: switch.v
+luID: 23241
+lu_idx: [(10, 17, 1)]
+fe_idx: [(-1, -1, 'Themes', 4523), (0, 3, 'Exchangers', 4519)]
+tokenized_text: They just switched .
+tokenized_lu_idx: ['-', '-', 'switch.v', '-']
+tokenized_frame_idx: ['-', '-', 'Exchange', '-']
+tokenized_fe_idx: ['Exchangers', '-', '-', '-']
+
+====Annotation (`annoID` = 10723)====
+text: Sie hatten die Rollen getauscht.
+frameName: Exchange
+frameID: 563
+luName: tauschen.v
+luID: 29958
+lu_idx: [(22, 30, 1577)]
+fe_idx: [(11, 20, 'Themes', 4523), (0, 2, 'Exchangers', 4519)]
+tokenized_text: Sie hatten die Rollen getauscht .
+tokenized_lu_idx: ['-', '-', '-', '-', 'tauschen.v', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', 'Exchange', '-']
+tokenized_fe_idx: ['Exchangers', '-', 'Themes', 'Themes', '-', '-']
+
+===============================
+====Annotation (`annoID` = 9575)====
+text: And the third part of this is that we've all agreed, nonetheless, on the really extraordinary capacities that children have -- their capacities for innovation.
+frameName: Quantified_mass
+frameID: 170
+luName: all.a
+luID: 17305
+lu_idx: [(41, 43, 1)]
+fe_idx: [(41, 43, 'Quantity', 977), (35, 36, 'Mass', 978)]
+tokenized_text: And the third part of this is that we 've all agreed , nonetheless , on the really extraordinary capacities that children have -- their capacities for innovation .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'all.a', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Quantified_mass', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', 'Mass', '-', 'Quantity', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+====Annotation (`annoID` = 9903)====
+text: Und das dritte Thema ist, dass wir uns trotzdem alle einig sind, dass Kinder wirklich außergewöhnliche Fähigkeiten haben -- Fähigkeiten, neue Wege zu gehen.
+frameName: Quantified_mass
+frameID: 170
+luName: alle.adv
+luID: 29799
+lu_idx: [(48, 51, 1577)]
+fe_idx: []
+tokenized_text: Und das dritte Thema ist , dass wir uns trotzdem alle einig sind , dass Kinder wirklich außergewöhnliche Fähigkeiten haben -- Fähigkeiten , neue Wege zu gehen .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'alle.adv', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Quantified_mass', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+===============================
+====Annotation (`annoID` = 4242)====
+text: 'My one night out all week.'
+frameName: Calendric_unit
+frameID: 206
+luName: week.n
+luID: 18061
+lu_idx: [(22, 25, 1)]
+fe_idx: [(22, 25, 'Unit', 7052), (1, 16, 'Salient_event', 8002)]
+tokenized_text: ' My one night out all week . '
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', 'week.n', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', 'Calendric_unit', '-', '-']
+tokenized_fe_idx: ['-', 'Salient_event', 'Salient_event', 'Salient_event', 'Salient_event', '-', 'Unit', '-', '-']
+
+====Annotation (`annoID` = 10813)====
+text: Mein einziger freier Abend in der Woche.'
+frameName: Calendric_unit
+frameID: 206
+luName: woche.n
+luID: 29496
+lu_idx: [(34, 38, 1577)]
+fe_idx: []
+tokenized_text: Mein einziger freier Abend in der Woche . '
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', 'woche.n', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', 'Calendric_unit', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+===============================
+====Annotation (`annoID` = 2162)====
+text: I find this very interesting.
+frameName: Mental_stimulus_stimulus_focus
+frameID: 912
+luName: interesting.a
+luID: 25011
+lu_idx: [(17, 27, 1)]
+fe_idx: [(12, 15, 'Degree', 8536), (0, 0, 'Experiencer', 8534), (7, 10, 'Stimulus', 8535)]
+tokenized_text: I find this very interesting .
+tokenized_lu_idx: ['-', '-', '-', '-', 'interesting.a', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', 'Mental_stimulus_stimulus_focus', '-']
+tokenized_fe_idx: ['-', '-', 'Stimulus', 'Degree', '-', '-']
+
+====Annotation (`annoID` = 9890)====
+text: Das ist recht bemerkenswert.
+frameName: Mental_stimulus_stimulus_focus
+frameID: 912
+luName: bemerkenswert.adv
+luID: 29792
+lu_idx: [(14, 26, 1577)]
+fe_idx: [(8, 12, 'Degree', 8536), (0, 2, 'Stimulus', 8535)]
+tokenized_text: Das ist recht bemerkenswert .
+tokenized_lu_idx: ['-', '-', '-', 'bemerkenswert.adv', '-']
+tokenized_frame_idx: ['-', '-', '-', 'Mental_stimulus_stimulus_focus', '-']
+tokenized_fe_idx: ['Stimulus', '-', 'Degree', '-', '-']
+
+===============================
+====Annotation (`annoID` = 4410)====
+text: And you're never asked back, curiously.
+frameName: Typicality
+frameID: 541
+luName: curiously.adv
+luID: 27280
+lu_idx: [(29, 37, 1)]
+fe_idx: [(4, 26, 'Feature', 4376)]
+tokenized_text: And you 're never asked back , curiously .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', 'curiously.adv', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', 'Typicality', '-']
+tokenized_fe_idx: ['-', 'Feature', 'Feature', 'Feature', 'Feature', 'Feature', '-', '-', '-']
+
+====Annotation (`annoID` = 9896)====
+text: Auf jeden Fall nicht zweimal, seltsamerweise.
+frameName: Typicality
+frameID: 541
+luName: seltsamerweise.adv
+luID: 29796
+lu_idx: [(30, 43, 1577)]
+fe_idx: []
+tokenized_text: Auf jeden Fall nicht zweimal , seltsamerweise .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', 'seltsamerweise.adv', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', 'Typicality', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-']
+
+===============================
+====Annotation (`annoID` = 4261)====
+text: Nobody has a clue, despite all the expertise that's been on parade for the past four days, what the world will look like in five years' time.
+frameName: Cardinal_numbers
+frameID: 196
+luName: four.num
+luID: 17868
+lu_idx: [(80, 83, 1)]
+fe_idx: [(80, 83, 'Number', 2715), (85, 88, 'Unit', 11398)]
+tokenized_text: Nobody has a clue , despite all the expertise that 's been on parade for the past four days , what the world will look like in five years' time .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'four.num', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Cardinal_numbers', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Number', 'Unit', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+====Annotation (`annoID` = 10819)====
+text: Keiner hat eine Ahnung, trotz jeglicher Expertise, die wir die letzten vier Tage erleben durften, wie die Welt in fünf Jahren aussehen wird.
+frameName: Cardinal_numbers
+frameID: 196
+luName: vier.num
+luID: 29507
+lu_idx: [(71, 74, 1577)]
+fe_idx: [(76, 79, 'Entity', 2716)]
+tokenized_text: Keiner hat eine Ahnung , trotz jeglicher Expertise , die wir die letzten vier Tage erleben durften , wie die Welt in fünf Jahren aussehen wird .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'vier.num', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Cardinal_numbers', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Entity', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+===============================
+====Annotation (`annoID` = 2542)====
+text: If you work in education, you're not asked.
+frameName: Request
+frameID: 35
+luName: ask.v
+luID: 13316
+lu_idx: [(37, 41, 1)]
+fe_idx: [(-1, -1, 'Speaker', 141), (-1, -1, 'Message', 143), (26, 28, 'Addressee', 142)]
+tokenized_text: If you work in education , you 're not asked .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', 'ask.v', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', 'Request', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', 'Addressee', '-', '-', '-', '-']
+
+====Annotation (`annoID` = 9895)====
+text: Man wird erst gar nicht eingeladen.
+frameName: Request
+frameID: 35
+luName: einladen.v
+luID: 29802
+lu_idx: [(24, 33, 1577)]
+fe_idx: [(0, 2, 'Addressee', 142)]
+tokenized_text: Man wird erst gar nicht eingeladen .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', 'einladen.v', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', 'Request', '-']
+tokenized_fe_idx: ['Addressee', '-', '-', '-', '-', '-', '-']
+
+===============================
+====Annotation (`annoID` = 4281)====
+text: So I want to talk about education and I want to talk about creativity.
+frameName: Coming_up_with
+frameID: 22
+luName: creativity.n
+luID: 27220
+lu_idx: [(59, 68, 1)]
+fe_idx: [(-1, -1, 'Cognizer', 85), (-1, -1, 'Idea', 86)]
+tokenized_text: So I want to talk about education and I want to talk about creativity .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'creativity.n', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Coming_up_with', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+====Annotation (`annoID` = 9315)====
+text: Ich möchte also über Bildung und Kreativität sprechen.
+frameName: Coming_up_with
+frameID: 22
+luName: kreativität.n
+luID: 29479
+lu_idx: [(33, 43, 1577)]
+fe_idx: []
+tokenized_text: Ich möchte also über Bildung und Kreativität sprechen .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', 'kreativität.n', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', 'Coming_up_with', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+===============================
+====Annotation (`annoID` = 4278)====
+text: And she's exceptional, but I think she's not, so to speak, exceptional in the whole of childhood.
+frameName: Typicality
+frameID: 541
+luName: exceptional.a
+luID: 27216
+lu_idx: [(59, 69, 1)]
+fe_idx: [(71, 95, 'Comparison_set', 4375), (35, 37, 'State_of_affairs', 4374)]
+tokenized_text: And she 's exceptional , but I think she 's not , so to speak , exceptional in the whole of childhood .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'exceptional.a', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Typicality', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', 'State_of_affairs', '-', '-', '-', '-', '-', '-', '-', '-', 'Comparison_set', 'Comparison_set', 'Comparison_set', 'Comparison_set', 'Comparison_set', '-']
+
+====Annotation (`annoID` = 10707)====
+text: Sie ist außergewöhnlich, aber ich denke, sie ist nicht, sozusagen, außergewöhnlich in Bezug auf die Gesamtheit aller Kinder.
+frameName: Typicality
+frameID: 541
+luName: außergewöhnlich.a
+luID: 29782
+lu_idx: [(67, 81, 1577)]
+fe_idx: [(83, 122, 'Comparison_set', 4375), (41, 43, 'State_of_affairs', 4374)]
+tokenized_text: Sie ist außergewöhnlich , aber ich denke , sie ist nicht , sozusagen , außergewöhnlich in Bezug auf die Gesamtheit aller Kinder .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'außergewöhnlich.a', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Typicality', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', 'State_of_affairs', '-', '-', '-', '-', '-', '-', 'Comparison_set', 'Comparison_set', 'Comparison_set', 'Comparison_set', 'Comparison_set', 'Comparison_set', 'Comparison_set', '-']
+
+===============================
+====Annotation (`annoID` = 9589)====
+text: He didn't have to speak, but you know the bit where the three kings come in?
+frameName: Cardinal_numbers
+frameID: 196
+luName: three.num
+luID: 17845
+lu_idx: [(56, 60, 1)]
+fe_idx: [(56, 60, 'Number', 2715), (62, 66, 'Entity', 2716)]
+tokenized_text: He did n't have to speak , but you know the bit where the three kings come in ?
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'three.num', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Cardinal_numbers', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Number', 'Entity', '-', '-', '-']
+
+====Annotation (`annoID` = 10738)====
+text: Er musste nicht reden, aber wissen Sie noch, der Teil, wo die drei Könige kommen?
+frameName: Cardinal_numbers
+frameID: 196
+luName: drei.num
+luID: 29985
+lu_idx: [(62, 65, 1577)]
+fe_idx: [(62, 65, 'Number', 2715), (67, 72, 'Entity', 2716)]
+tokenized_text: Er musste nicht reden , aber wissen Sie noch , der Teil , wo die drei Könige kommen ?
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'drei.num', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Cardinal_numbers', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Number', 'Entity', '-', '-']
+
+===============================
+====Annotation (`annoID` = 2557)====
+text: She was six, and she was at the back, drawing, and the teacher said this girl hardly ever paid attention, and in this drawing lesson, she did.
+frameName: Statement
+frameID: 37
+luName: say.v
+luID: 13406
+lu_idx: [(63, 66, 1)]
+fe_idx: [(68, 140, 'Message', 154), (51, 61, 'Speaker', 152)]
+tokenized_text: She was six , and she was at the back , drawing , and the teacher said this girl hardly ever paid attention , and in this drawing lesson , she did .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'say.v', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Statement', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Speaker', 'Speaker', '-', 'Message', 'Message', 'Message', 'Message', 'Message', 'Message', 'Message', 'Message', 'Message', 'Message', 'Message', 'Message', 'Message', 'Message', 'Message', '-']
+
+====Annotation (`annoID` = 9330)====
+text: Sie war 6 und malte hinten in der letzten Reihe und die Lehrerin sagte, dass dieses kleine Mädchen fast nie aufpasste, außer in der Zeichenstunde.
+frameName: Statement
+frameID: 37
+luName: sagen.v
+luID: 29532
+lu_idx: [(65, 69, 1577)]
+fe_idx: [(72, 144, 'Message', 154), (52, 63, 'Speaker', 152)]
+tokenized_text: Sie war 6 und malte hinten in der letzten Reihe und die Lehrerin sagte , dass dieses kleine Mädchen fast nie aufpasste , außer in der Zeichenstunde .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'sagen.v', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Statement', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Speaker', 'Speaker', '-', '-', 'Message', 'Message', 'Message', 'Message', 'Message', 'Message', 'Message', 'Message', 'Message', 'Message', 'Message', 'Message', '-']
+
+===============================
+====Annotation (`annoID` = 2524)====
+text: Nobody has a clue, despite all the expertise that's been on parade for the past four days, what the world will look like in five years' time.
+frameName: Expertise
+frameID: 125
+luName: expertise.n
+luID: 16489
+lu_idx: [(35, 43, 1)]
+fe_idx: [(-1, -1, 'Skill', 624), (-1, -1, 'Protagonist', 623)]
+tokenized_text: Nobody has a clue , despite all the expertise that 's been on parade for the past four days , what the world will look like in five years' time .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', 'expertise.n', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', 'Expertise', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+====Annotation (`annoID` = 9291)====
+text: Keiner hat eine Ahnung, trotz jeglicher Expertise, die wir die letzten vier Tage erleben durften, wie die Welt in fünf Jahren aussehen wird.
+frameName: Expertise
+frameID: 125
+luName: expertise.n
+luID: 29506
+lu_idx: [(40, 48, 1577)]
+fe_idx: []
+tokenized_text: Keiner hat eine Ahnung , trotz jeglicher Expertise , die wir die letzten vier Tage erleben durften , wie die Welt in fünf Jahren aussehen wird .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', 'expertise.n', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', 'Expertise', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+===============================
+====Annotation (`annoID` = 4240)====
+text: 'My one night out all week.'
+frameName: Calendric_unit
+frameID: 206
+luName: night.n
+luID: 18083
+lu_idx: [(8, 12, 1)]
+fe_idx: [(8, 12, 'Unit', 7052), (4, 6, 'Count', 5157)]
+tokenized_text: ' My one night out all week . '
+tokenized_lu_idx: ['-', '-', '-', 'night.n', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', 'Calendric_unit', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', 'Count', 'Unit', '-', '-', '-', '-', '-']
+
+====Annotation (`annoID` = 10812)====
+text: Mein einziger freier Abend in der Woche.'
+frameName: Calendric_unit
+frameID: 206
+luName: abend.n
+luID: 30031
+lu_idx: [(21, 25, 1577)]
+fe_idx: []
+tokenized_text: Mein einziger freier Abend in der Woche . '
+tokenized_lu_idx: ['-', '-', '-', 'abend.n', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', 'Calendric_unit', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+===============================
+====Annotation (`annoID` = 4272)====
+text: And the third part of this is that we've all agreed, nonetheless, on the really extraordinary capacities that children have -- their capacities for innovation.
+frameName: Capability
+frameID: 496
+luName: capacity.n
+luID: 22698
+lu_idx: [(94, 103, 1)]
+fe_idx: [(110, 117, 'Entity', 3999), (-1, -1, 'Entity', 3999), (-1, -1, 'Event', 4000)]
+tokenized_text: And the third part of this is that we 've all agreed , nonetheless , on the really extraordinary capacities that children have -- their capacities for innovation .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'capacity.n', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Capability', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Entity', '-', '-', '-', '-', '-', '-', '-']
+
+====Annotation (`annoID` = 9303)====
+text: Und das dritte Thema ist, dass wir uns trotzdem alle einig sind, dass Kinder wirklich außergewöhnliche Fähigkeiten haben -- Fähigkeiten, neue Wege zu gehen.
+frameName: Capability
+frameID: 496
+luName: fähigkeit.n
+luID: 29513
+lu_idx: [(103, 113, 1577)]
+fe_idx: [(70, 75, 'Entity', 3999), (137, 154, 'Event', 4000)]
+tokenized_text: Und das dritte Thema ist , dass wir uns trotzdem alle einig sind , dass Kinder wirklich außergewöhnliche Fähigkeiten haben -- Fähigkeiten , neue Wege zu gehen .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'fähigkeit.n', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Capability', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Entity', '-', '-', '-', '-', '-', '-', '-', 'Event', 'Event', 'Event', 'Event', '-']
+
+===============================
+====Annotation (`annoID` = 4398)====
+text: The second is that it's put us in a place where we have no idea what's going to happen, in terms of the future.
+frameName: Awareness
+frameID: 14
+luName: idea.n
+luID: 12788
+lu_idx: [(59, 62, 1)]
+fe_idx: [(48, 49, 'Cognizer', 57), (64, 109, 'Content', 58)]
+tokenized_text: The second is that it 's put us in a place where we have no idea what 's going to happen , in terms of the future .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'idea.n', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Awareness', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Cognizer', '-', '-', '-', 'Content', 'Content', 'Content', 'Content', 'Content', 'Content', 'Content', 'Content', 'Content', 'Content', 'Content', '-']
+
+====Annotation (`annoID` = 9094)====
+text: Zweitens befinden wir uns an einem Punkt, an dem wir keine Ahnung haben, wie es in Zukunft weitergeht.
+frameName: Awareness
+frameID: 14
+luName: keine Ahnung haben.v
+luID: 29337
+lu_idx: [(59, 64, 1577), (66, 70, 1577), (53, 57, 1577)]
+fe_idx: [(49, 51, 'Cognizer', 57), (73, 100, 'Topic', 60), (53, 57, 'Degree', 638)]
+tokenized_text: Zweitens befinden wir uns an einem Punkt , an dem wir keine Ahnung haben , wie es in Zukunft weitergeht .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'keine Ahnung haben.v', 'keine Ahnung haben.v', 'keine Ahnung haben.v', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Awareness', 'Awareness', 'Awareness', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Cognizer', 'Degree', '-', '-', '-', 'Topic', 'Topic', 'Topic', 'Topic', 'Topic', '-']
+
+===============================
+====Annotation (`annoID` = 9661)====
+text: There have been three themes running through the conference which are relevant to what I want to talk about.
+frameName: Discussion
+frameID: 28
+luName: conference.n
+luID: 13186
+lu_idx: [(49, 58, 1)]
+fe_idx: [(-1, -1, 'Interlocutors', 111)]
+tokenized_text: There have been three themes running through the conference which are relevant to what I want to talk about .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', 'conference.n', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', 'Discussion', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+====Annotation (`annoID` = 10810)====
+text: Es gab drei Leitmotive, die sich durch die Konferenz zogen, die wichtig sind für das, worüber ich sprechen will.
+frameName: Discussion
+frameID: 28
+luName: konferenz.n
+luID: 30041
+lu_idx: [(43, 51, 1577)]
+fe_idx: []
+tokenized_text: Es gab drei Leitmotive , die sich durch die Konferenz zogen , die wichtig sind für das , worüber ich sprechen will .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', 'konferenz.n', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', 'Discussion', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+===============================
+====Annotation (`annoID` = 4284)====
+text: My contention is that creativity now is as important in education as literacy, and we should treat it with the same status.
+frameName: Education_teaching
+frameID: 101
+luName: education.n
+luID: 15868
+lu_idx: [(56, 64, 1)]
+fe_idx: [(-1, -1, 'Student', 432)]
+tokenized_text: My contention is that creativity now is as important in education as literacy , and we should treat it with the same status .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'education.n', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Education_teaching', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+====Annotation (`annoID` = 9319)====
+text: Meine Überzeugung ist, dass Kreativität heute genauso wichtig für Bildung ist, wie Lesen und Schreiben, und wir sollten sie gleichwertig behandeln.
+frameName: Education_teaching
+frameID: 101
+luName: bildung.n
+luID: 29338
+lu_idx: [(66, 72, 1577)]
+fe_idx: []
+tokenized_text: Meine Überzeugung ist , dass Kreativität heute genauso wichtig für Bildung ist , wie Lesen und Schreiben , und wir sollten sie gleichwertig behandeln .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'bildung.n', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Education_teaching', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+===============================
+====Annotation (`annoID` = 9592)====
+text: And he said, 'Yeah, why?Was that wrong?'
+frameName: Correctness
+frameID: 668
+luName: wrong.a
+luID: 23838
+lu_idx: [(33, 37, 1)]
+fe_idx: [(28, 31, 'Information', 5488)]
+tokenized_text: And he said , ' Yeah , why ? Was that wrong ? '
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'wrong.a', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Correctness', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Information', '-', '-', '-']
+
+====Annotation (`annoID` = 10720)====
+text: War was falsch?'
+frameName: Correctness
+frameID: 668
+luName: falsch.a
+luID: 29955
+lu_idx: [(8, 13, 1577)]
+fe_idx: [(0, 2, 'Time', 8022), (4, 6, 'Information', 5488)]
+tokenized_text: War was falsch ? '
+tokenized_lu_idx: ['-', '-', 'falsch.a', '-', '-']
+tokenized_frame_idx: ['-', '-', 'Correctness', '-', '-']
+tokenized_fe_idx: ['Time', 'Information', '-', '-', '-']
+
+===============================
+====Annotation (`annoID` = 10040)====
+text: Actually, you're not often at dinner parties, frankly.
+frameName: Social_event
+frameID: 114
+luName: dinner-party.n
+luID: 16206
+lu_idx: [(37, 43, 1), (30, 35, 1)]
+fe_idx: [(30, 43, 'Social_event', 546)]
+tokenized_text: Actually , you 're not often at dinner parties , frankly .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', 'dinner-party.n', 'dinner-party.n', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', 'Social_event', 'Social_event', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', 'Social_event', 'Social_event', '-', '-', '-']
+
+====Annotation (`annoID` = 9893)====
+text: Wenn Sie auf einer Dinner-Party sind und erzählen, dass sie im Bildungswesen arbeiten -- offen gesagt, ist man nicht oft bei Dinner-Parties, wenn man im Bildungswesen arbeitet.
+frameName: Social_event
+frameID: 114
+luName: Dinner-Party.n
+luID: 29793
+lu_idx: [(125, 138, 1577)]
+fe_idx: [(107, 109, 'Attendee', 552)]
+tokenized_text: Wenn Sie auf einer Dinner-Party sind und erzählen , dass sie im Bildungswesen arbeiten -- offen gesagt , ist man nicht oft bei Dinner-Parties , wenn man im Bildungswesen arbeitet .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Dinner-Party.n', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Social_event', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Attendee', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+===============================
+====Annotation (`annoID` = 4282)====
+text: My contention is that creativity now is as important in education as literacy, and we should treat it with the same status.
+frameName: Coming_up_with
+frameID: 22
+luName: creativity.n
+luID: 27220
+lu_idx: [(22, 31, 1)]
+fe_idx: [(-1, -1, 'Cognizer', 85), (-1, -1, 'Idea', 86)]
+tokenized_text: My contention is that creativity now is as important in education as literacy , and we should treat it with the same status .
+tokenized_lu_idx: ['-', '-', '-', '-', 'creativity.n', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', 'Coming_up_with', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+====Annotation (`annoID` = 10806)====
+text: Meine Überzeugung ist, dass Kreativität heute genauso wichtig für Bildung ist, wie Lesen und Schreiben, und wir sollten sie gleichwertig behandeln.
+frameName: Coming_up_with
+frameID: 22
+luName: kreativität.n
+luID: 29479
+lu_idx: [(28, 38, 1577)]
+fe_idx: []
+tokenized_text: Meine Überzeugung ist , dass Kreativität heute genauso wichtig für Bildung ist , wie Lesen und Schreiben , und wir sollten sie gleichwertig behandeln .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', 'kreativität.n', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', 'Coming_up_with', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+===============================
+====Annotation (`annoID` = 4395)====
+text: She was six, and she was at the back, drawing, and the teacher said this girl hardly ever paid attention, and in this drawing lesson, she did.
+frameName: Education_teaching
+frameID: 101
+luName: teacher.n
+luID: 15849
+lu_idx: [(55, 61, 1)]
+fe_idx: [(-1, -1, 'Course', 4798), (55, 61, 'Teacher', 431), (-1, -1, 'Student', 432)]
+tokenized_text: She was six , and she was at the back , drawing , and the teacher said this girl hardly ever paid attention , and in this drawing lesson , she did .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'teacher.n', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Education_teaching', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Teacher', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+====Annotation (`annoID` = 9329)====
+text: Sie war 6 und malte hinten in der letzten Reihe und die Lehrerin sagte, dass dieses kleine Mädchen fast nie aufpasste, außer in der Zeichenstunde.
+frameName: Education_teaching
+frameID: 101
+luName: lehrerin.n
+luID: 29531
+lu_idx: [(56, 63, 1577)]
+fe_idx: [(-1, -1, 'Teacher', 431), (-1, -1, 'Student', 432)]
+tokenized_text: Sie war 6 und malte hinten in der letzten Reihe und die Lehrerin sagte , dass dieses kleine Mädchen fast nie aufpasste , außer in der Zeichenstunde .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'lehrerin.n', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Education_teaching', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+===============================
+====Annotation (`annoID` = 4061)====
+text: The teacher was fascinated.
+frameName: Education_teaching
+frameID: 101
+luName: teacher.n
+luID: 15849
+lu_idx: [(4, 10, 1)]
+fe_idx: [(4, 10, 'Teacher', 431)]
+tokenized_text: The teacher was fascinated .
+tokenized_lu_idx: ['-', 'teacher.n', '-', '-', '-']
+tokenized_frame_idx: ['-', 'Education_teaching', '-', '-', '-']
+tokenized_fe_idx: ['-', 'Teacher', '-', '-', '-']
+
+====Annotation (`annoID` = 9334)====
+text: Die Lehrerin war fasziniert, ging zu ihr herüber und fragte: 'Was malst du denn da?'
+frameName: Education_teaching
+frameID: 101
+luName: lehrerin.n
+luID: 29531
+lu_idx: [(4, 11, 1577)]
+fe_idx: []
+tokenized_text: Die Lehrerin war fasziniert , ging zu ihr herüber und fragte : ' Was malst du denn da ? '
+tokenized_lu_idx: ['-', 'lehrerin.n', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', 'Education_teaching', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+===============================
+====Annotation (`annoID` = 4254)====
+text: So I have a big interest in education, and I think we all do.
+frameName: Education_teaching
+frameID: 101
+luName: education.n
+luID: 15868
+lu_idx: [(28, 36, 1)]
+fe_idx: [(-1, -1, 'Student', 432)]
+tokenized_text: So I have a big interest in education , and I think we all do .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', 'education.n', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', 'Education_teaching', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+====Annotation (`annoID` = 9283)====
+text: Ich habe ein großes Interesse an Bildung, und ich denke, das haben wir alle.
+frameName: Education_teaching
+frameID: 101
+luName: bildung.n
+luID: 29338
+lu_idx: [(33, 39, 1577)]
+fe_idx: []
+tokenized_text: Ich habe ein großes Interesse an Bildung , und ich denke , das haben wir alle .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', 'bildung.n', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', 'Education_teaching', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+===============================
+====Annotation (`annoID` = 2525)====
+text: Nobody has a clue, despite all the expertise that's been on parade for the past four days, what the world will look like in five years' time.
+frameName: Concessive
+frameID: 952
+luName: despite.prep
+luID: 25173
+lu_idx: [(19, 25, 1)]
+fe_idx: [(27, 88, 'Conceded_state_of_affairs', 9102), (91, 139, 'Main_assertion', 9104), (0, 16, 'Main_assertion', 9104)]
+tokenized_text: Nobody has a clue , despite all the expertise that 's been on parade for the past four days , what the world will look like in five years' time .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', 'despite.prep', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', 'Concessive', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['Main_assertion', 'Main_assertion', 'Main_assertion', 'Main_assertion', '-', '-', 'Conceded_state_of_affairs', 'Conceded_state_of_affairs', 'Conceded_state_of_affairs', 'Conceded_state_of_affairs', 'Conceded_state_of_affairs', 'Conceded_state_of_affairs', 'Conceded_state_of_affairs', 'Conceded_state_of_affairs', 'Conceded_state_of_affairs', 'Conceded_state_of_affairs', 'Conceded_state_of_affairs', 'Conceded_state_of_affairs', 'Conceded_state_of_affairs', '-', 'Main_assertion', 'Main_assertion', 'Main_assertion', 'Main_assertion', 'Main_assertion', 'Main_assertion', 'Main_assertion', 'Main_assertion', 'Main_assertion', 'Main_assertion', '-']
+
+====Annotation (`annoID` = 9713)====
+text: Keiner hat eine Ahnung, trotz jeglicher Expertise, die wir die letzten vier Tage erleben durften, wie die Welt in fünf Jahren aussehen wird.
+frameName: Concessive
+frameID: 952
+luName: trotz.prep
+luID: 29778
+lu_idx: [(24, 28, 1577)]
+fe_idx: [(0, 21, 'Main_assertion', 9104), (30, 95, 'Conceded_state_of_affairs', 9102)]
+tokenized_text: Keiner hat eine Ahnung , trotz jeglicher Expertise , die wir die letzten vier Tage erleben durften , wie die Welt in fünf Jahren aussehen wird .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', 'trotz.prep', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', 'Concessive', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['Main_assertion', 'Main_assertion', 'Main_assertion', 'Main_assertion', '-', '-', 'Conceded_state_of_affairs', 'Conceded_state_of_affairs', 'Conceded_state_of_affairs', 'Conceded_state_of_affairs', 'Conceded_state_of_affairs', 'Conceded_state_of_affairs', 'Conceded_state_of_affairs', 'Conceded_state_of_affairs', 'Conceded_state_of_affairs', 'Conceded_state_of_affairs', 'Conceded_state_of_affairs', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+===============================
+====Annotation (`annoID` = 9855)====
+text: So I have a big interest in education, and I think we all do.
+frameName: Quantified_mass
+frameID: 170
+luName: all.a
+luID: 17305
+lu_idx: [(54, 56, 1)]
+fe_idx: [(51, 52, 'Individuals', 979), (54, 56, 'Quantity', 977)]
+tokenized_text: So I have a big interest in education , and I think we all do .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'all.a', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Quantified_mass', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Individuals', 'Quantity', '-', '-']
+
+====Annotation (`annoID` = 9901)====
+text: Ich habe ein großes Interesse an Bildung, und ich denke, das haben wir alle.
+frameName: Quantified_mass
+frameID: 170
+luName: alle.adv
+luID: 29799
+lu_idx: [(71, 74, 1577)]
+fe_idx: [(67, 69, 'Individuals', 979)]
+tokenized_text: Ich habe ein großes Interesse an Bildung , und ich denke , das haben wir alle .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'alle.adv', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Quantified_mass', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Individuals', '-', '-']
+
+===============================
+====Annotation (`annoID` = 4431)====
+text: And she's exceptional, but I think she's not, so to speak, exceptional in the whole of childhood.
+frameName: Negation
+frameID: 1186
+luName: not.adv
+luID: 26066
+lu_idx: [(41, 43, 1)]
+fe_idx: [(59, 95, 'Negated_proposition', 11073)]
+tokenized_text: And she 's exceptional , but I think she 's not , so to speak , exceptional in the whole of childhood .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'not.adv', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Negation', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Negated_proposition', 'Negated_proposition', 'Negated_proposition', 'Negated_proposition', 'Negated_proposition', 'Negated_proposition', '-']
+
+====Annotation (`annoID` = 9305)====
+text: Sie ist außergewöhnlich, aber ich denke, sie ist nicht, sozusagen, außergewöhnlich in Bezug auf die Gesamtheit aller Kinder.
+frameName: Negation
+frameID: 1186
+luName: nicht.adv
+luID: 29485
+lu_idx: [(49, 53, 1577)]
+fe_idx: [(41, 47, 'Negated_proposition', 11073)]
+tokenized_text: Sie ist außergewöhnlich , aber ich denke , sie ist nicht , sozusagen , außergewöhnlich in Bezug auf die Gesamtheit aller Kinder .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'nicht.adv', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Negation', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', 'Negated_proposition', 'Negated_proposition', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+===============================
+====Annotation (`annoID` = 4415)====
+text: One is the extraordinary evidence of human creativity in all of the presentations that we've had and in all of the people here.
+frameName: Coming_up_with
+frameID: 22
+luName: creativity.n
+luID: 27220
+lu_idx: [(43, 52, 1)]
+fe_idx: [(54, 125, 'Material', 88), (37, 41, 'Cognizer', 85)]
+tokenized_text: One is the extraordinary evidence of human creativity in all of the presentations that we 've had and in all of the people here .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', 'creativity.n', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', 'Coming_up_with', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', 'Cognizer', '-', 'Material', 'Material', 'Material', 'Material', 'Material', 'Material', 'Material', 'Material', 'Material', 'Material', 'Material', 'Material', 'Material', 'Material', 'Material', 'Material', '-']
+
+====Annotation (`annoID` = 10788)====
+text: Eines sind die überwältigenden Zeugnisse menschlicher Kreativität in allen Vorträgen, die wir gehört haben und in allen Menschen hier -- allein ihre Vielfalt und ihre Bandbreite.
+frameName: Coming_up_with
+frameID: 22
+luName: kreativität.n
+luID: 29479
+lu_idx: [(54, 64, 1577)]
+fe_idx: []
+tokenized_text: Eines sind die überwältigenden Zeugnisse menschlicher Kreativität in allen Vorträgen , die wir gehört haben und in allen Menschen hier -- allein ihre Vielfalt und ihre Bandbreite .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', 'kreativität.n', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', 'Coming_up_with', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+===============================
+====Annotation (`annoID` = 2559)====
+text: And the girl said, 'I'm drawing a picture of God.'
+frameName: Statement
+frameID: 37
+luName: say.v
+luID: 13406
+lu_idx: [(13, 16, 1)]
+fe_idx: [(4, 11, 'Speaker', 152), (20, 47, 'Message', 154)]
+tokenized_text: And the girl said , ' I 'm drawing a picture of God . '
+tokenized_lu_idx: ['-', '-', '-', 'say.v', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', 'Statement', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', 'Speaker', 'Speaker', '-', '-', '-', 'Message', 'Message', 'Message', 'Message', 'Message', 'Message', 'Message', '-', '-']
+
+====Annotation (`annoID` = 9339)====
+text: Und das Mädchen sagte: 'Ich zeichne ein Bild von Gott.'
+frameName: Statement
+frameID: 37
+luName: sagen.v
+luID: 29532
+lu_idx: [(16, 20, 1577)]
+fe_idx: [(24, 53, 'Message', 154), (4, 7, 'Speaker', 152), (8, 14, 'Speaker', 152)]
+tokenized_text: Und das Mädchen sagte : ' Ich zeichne ein Bild von Gott . '
+tokenized_lu_idx: ['-', '-', '-', 'sagen.v', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', 'Statement', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', 'Speaker', 'Speaker', '-', '-', '-', 'Message', 'Message', 'Message', 'Message', 'Message', 'Message', 'Message', '-']
+
+===============================
+====Annotation (`annoID` = 2541)====
+text: There have been three themes running through the conference which are relevant to what I want to talk about.
+frameName: Being_relevant
+frameID: 1039
+luName: relevant.a
+luID: 25523
+lu_idx: [(70, 77, 1)]
+fe_idx: [(60, 64, 'Phenomenon', 9731), (16, 58, 'Phenomenon', 9731), (79, 106, 'Endeavor', 9732)]
+tokenized_text: There have been three themes running through the conference which are relevant to what I want to talk about .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'relevant.a', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Being_relevant', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', 'Phenomenon', 'Phenomenon', 'Phenomenon', 'Phenomenon', 'Phenomenon', 'Phenomenon', 'Phenomenon', '-', '-', 'Endeavor', 'Endeavor', 'Endeavor', 'Endeavor', 'Endeavor', 'Endeavor', 'Endeavor', '-']
+
+====Annotation (`annoID` = 9250)====
+text: Es gab drei Leitmotive, die sich durch die Konferenz zogen, die wichtig sind für das, worüber ich sprechen will.
+frameName: Being_relevant
+frameID: 1039
+luName: wichtig.a
+luID: 29475
+lu_idx: [(64, 70, 1577)]
+fe_idx: [(77, 83, 'Endeavor', 9732), (60, 62, 'Phenomenon', 9731)]
+tokenized_text: Es gab drei Leitmotive , die sich durch die Konferenz zogen , die wichtig sind für das , worüber ich sprechen will .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'wichtig.a', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Being_relevant', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Phenomenon', '-', '-', 'Endeavor', 'Endeavor', '-', '-', '-', '-', '-', '-']
+
+===============================
+====Annotation (`annoID` = 4418)====
+text: But if you are, and you say to somebody, you know, they say, 'What do you do?'and you say you work in education, you can see the blood run from their face.
+frameName: Body_parts
+frameID: 108
+luName: face.n
+luID: 16085
+lu_idx: [(150, 153, 1)]
+fe_idx: [(150, 153, 'Body_part', 516), (144, 148, 'Possessor', 472)]
+tokenized_text: But if you are , and you say to somebody , you know , they say , ' What do you do ?' and you say you work in education , you can see the blood run from their face .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'face.n', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Body_parts', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Possessor', 'Body_part', '-']
+
+====Annotation (`annoID` = 10379)====
+text: Sind Sie aber eingeladen und reden mit jemandem, also wenn jemand fragt: 'Was machen Sie so?'und Sie: 'Ich arbeite im Bildungswesen', sieht man, wie den anderen das Blut aus dem Gesicht weicht.
+frameName: Body_parts
+frameID: 108
+luName: dem Gesicht.n
+luID: 29859
+lu_idx: [(174, 176, 1577), (178, 184, 1577)]
+fe_idx: []
+tokenized_text: Sind Sie aber eingeladen und reden mit jemandem , also wenn jemand fragt : ' Was machen Sie so ?' und Sie : ' Ich arbeite im Bildungswesen ' , sieht man , wie den anderen das Blut aus dem Gesicht weicht .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'dem Gesicht.n', 'dem Gesicht.n', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Body_parts', 'Body_parts', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+===============================
+====Annotation (`annoID` = 9588)====
+text: We considered this to be one of the lead parts.
+frameName: Performers_and_roles
+frameID: 382
+luName: part.n
+luID: 21105
+lu_idx: [(41, 45, 1)]
+fe_idx: [(36, 39, 'Type', 2875)]
+tokenized_text: We considered this to be one of the lead parts .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', 'part.n', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', 'Performers_and_roles', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', 'Type', '-', '-']
+
+====Annotation (`annoID` = 10777)====
+text: 'Die Geburt II' James spielte den Joseph, worüber wir begeistert waren, weil wir das als eine der Hauptrollen betrachten.
+frameName: Performers_and_roles
+frameID: 382
+luName: Hauptrolle.n
+luID: 30014
+lu_idx: [(98, 108, 1577)]
+fe_idx: [(81, 83, 'Role', 2877)]
+tokenized_text: ' Die Geburt II ' James spielte den Joseph , worüber wir begeistert waren , weil wir das als eine der Hauptrollen betrachten .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Hauptrolle.n', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Performers_and_roles', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Role', '-', '-', '-', '-', '-', '-']
+
+===============================
+====Annotation (`annoID` = 2560)====
+text: And the teacher said, 'But nobody knows what God looks like.'
+frameName: Statement
+frameID: 37
+luName: say.v
+luID: 13406
+lu_idx: [(16, 19, 1)]
+fe_idx: [(23, 58, 'Message', 154), (4, 14, 'Speaker', 152)]
+tokenized_text: And the teacher said , ' But nobody knows what God looks like . '
+tokenized_lu_idx: ['-', '-', '-', 'say.v', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', 'Statement', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', 'Speaker', 'Speaker', '-', '-', '-', 'Message', 'Message', 'Message', 'Message', 'Message', 'Message', 'Message', '-', '-']
+
+====Annotation (`annoID` = 9344)====
+text: Und die Lehrerin sagte: 'Aber niemand weiß, wie Gott aussieht.'
+frameName: Statement
+frameID: 37
+luName: sagen.v
+luID: 29532
+lu_idx: [(17, 21, 1577)]
+fe_idx: [(25, 60, 'Message', 154), (4, 15, 'Speaker', 152)]
+tokenized_text: Und die Lehrerin sagte : ' Aber niemand weiß , wie Gott aussieht . '
+tokenized_lu_idx: ['-', '-', '-', 'sagen.v', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', 'Statement', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', 'Speaker', 'Speaker', '-', '-', '-', 'Message', 'Message', 'Message', 'Message', 'Message', 'Message', 'Message', '-', '-']
+
+===============================
+====Annotation (`annoID` = 2426)====
+text: But if you ask about their education, they pin you to the wall.
+frameName: Architectural_part
+frameID: 488
+luName: wall.n
+luID: 22598
+lu_idx: [(58, 61, 1)]
+fe_idx: [(58, 61, 'Part', 3951)]
+tokenized_text: But if you ask about their education , they pin you to the wall .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'wall.n', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Architectural_part', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Part', '-']
+
+====Annotation (`annoID` = 10822)====
+text: Fragen Sie sie nach ihrer Schulbildung, nageln sie Sie an die Wand.
+frameName: Architectural_part
+frameID: 488
+luName: wand.n
+luID: 30042
+lu_idx: [(62, 65, 1577)]
+fe_idx: []
+tokenized_text: Fragen Sie sie nach ihrer Schulbildung , nageln sie Sie an die Wand .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'wand.n', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Architectural_part', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+===============================
+====Annotation (`annoID` = 4223)====
+text: I mean, Sirena last night was a marvel, wasn't she?
+frameName: Calendric_unit
+frameID: 206
+luName: night.n
+luID: 18083
+lu_idx: [(20, 24, 1)]
+fe_idx: [(20, 24, 'Unit', 7052), (15, 18, 'Relative_time', 1318)]
+tokenized_text: I mean , Sirena last night was a marvel , was n't she ?
+tokenized_lu_idx: ['-', '-', '-', '-', '-', 'night.n', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', 'Calendric_unit', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', 'Relative_time', 'Unit', '-', '-', '-', '-', '-', '-', '-', '-']
+
+====Annotation (`annoID` = 10797)====
+text: Sirena gestern Abend war wunderbar, nicht wahr?
+frameName: Calendric_unit
+frameID: 206
+luName: abend.n
+luID: 30031
+lu_idx: [(15, 19, 1577)]
+fe_idx: [(7, 13, 'Relative_time', 1318)]
+tokenized_text: Sirena gestern Abend war wunderbar , nicht wahr ?
+tokenized_lu_idx: ['-', '-', 'abend.n', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', 'Calendric_unit', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', 'Relative_time', '-', '-', '-', '-', '-', '-', '-']
+
+===============================
+====Annotation (`annoID` = 9578)====
+text: So, 15 minutes left.
+frameName: Measure_duration
+frameID: 201
+luName: minute.n
+luID: 17990
+lu_idx: [(7, 13, 1)]
+fe_idx: [(7, 13, 'Unit', 1191), (4, 5, 'Count', 1190)]
+tokenized_text: So , 15 minutes left .
+tokenized_lu_idx: ['-', '-', '-', 'minute.n', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', 'Measure_duration', '-', '-']
+tokenized_fe_idx: ['-', '-', 'Count', 'Unit', '-', '-']
+
+====Annotation (`annoID` = 9322)====
+text: So, noch 15 Minuten Zeit.
+frameName: Measure_duration
+frameID: 201
+luName: minute.n
+luID: 29524
+lu_idx: [(12, 18, 1577)]
+fe_idx: [(-1, -1, 'Unit', 1191), (9, 10, 'Count', 1190)]
+tokenized_text: So , noch 15 Minuten Zeit .
+tokenized_lu_idx: ['-', '-', '-', '-', 'minute.n', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', 'Measure_duration', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', 'Count', '-', '-', '-']
+
+===============================
+====Annotation (`annoID` = 2509)====
+text: I have an interest in education.
+frameName: Education_teaching
+frameID: 101
+luName: education.n
+luID: 15868
+lu_idx: [(22, 30, 1)]
+fe_idx: [(-1, -1, 'Student', 432)]
+tokenized_text: I have an interest in education .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', 'education.n', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', 'Education_teaching', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-']
+
+====Annotation (`annoID` = 9095)====
+text: Ich interessiere mich für Bildung.
+frameName: Education_teaching
+frameID: 101
+luName: bildung.n
+luID: 29338
+lu_idx: [(26, 32, 1577)]
+fe_idx: [(-1, -1, 'Teacher', 431), (-1, -1, 'Subject', 434), (-1, -1, 'Student', 432)]
+tokenized_text: Ich interessiere mich für Bildung .
+tokenized_lu_idx: ['-', '-', '-', '-', 'bildung.n', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', 'Education_teaching', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-']
+
+===============================
+====Annotation (`annoID` = 4063)====
+text: And the teacher said, 'But nobody knows what God looks like.'
+frameName: Awareness
+frameID: 14
+luName: know.v
+luID: 12771
+lu_idx: [(34, 38, 1)]
+fe_idx: [(27, 32, 'Cognizer', 57), (40, 58, 'Content', 58)]
+tokenized_text: And the teacher said , ' But nobody knows what God looks like . '
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', 'know.v', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', 'Awareness', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', 'Cognizer', '-', 'Content', 'Content', 'Content', 'Content', '-', '-']
+
+====Annotation (`annoID` = 10785)====
+text: Und die Lehrerin sagte: 'Aber niemand weiß, wie Gott aussieht.'
+frameName: Awareness
+frameID: 14
+luName: wissen.v
+luID: 30026
+lu_idx: [(38, 41, 1577)]
+fe_idx: []
+tokenized_text: Und die Lehrerin sagte : ' Aber niemand weiß , wie Gott aussieht . '
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', 'wissen.v', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', 'Awareness', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+===============================
+====Annotation (`annoID` = 4497)====
+text: We have a huge vested interest in it, partly because it's education that's meant to take us into this future that we can't grasp.
+frameName: Education_teaching
+frameID: 101
+luName: education.n
+luID: 15868
+lu_idx: [(58, 66, 1)]
+fe_idx: [(-1, -1, 'Student', 432)]
+tokenized_text: We have a huge vested interest in it , partly because it 's education that 's meant to take us into this future that we ca n't grasp .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'education.n', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Education_teaching', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+====Annotation (`annoID` = 9285)====
+text: Wir haben ein großes, persönliches Interesse, teilweise Bildung dazu gedacht ist, uns in diese Zukunft zu bringen, die wir nicht fassen können.
+frameName: Education_teaching
+frameID: 101
+luName: bildung.n
+luID: 29338
+lu_idx: [(56, 62, 1577)]
+fe_idx: []
+tokenized_text: Wir haben ein großes , persönliches Interesse , teilweise Bildung dazu gedacht ist , uns in diese Zukunft zu bringen , die wir nicht fassen können .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', 'bildung.n', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', 'Education_teaching', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+===============================
+====Annotation (`annoID` = 4222)====
+text: And my contention is, all kids have tremendous talents.
+frameName: People_by_age
+frameID: 490
+luName: kid.n
+luID: 22628
+lu_idx: [(26, 29, 1)]
+fe_idx: [(26, 29, 'Person', 3964)]
+tokenized_text: And my contention is , all kids have tremendous talents .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', 'kid.n', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', 'People_by_age', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', 'Person', '-', '-', '-', '-']
+
+====Annotation (`annoID` = 9311)====
+text: Ich behaupte, dass alle Kinder gewaltige Talente haben und dass wir sie vergeuden, und zwar ziemlich rücksichtslos.
+frameName: People_by_age
+frameID: 490
+luName: kind.n
+luID: 29504
+lu_idx: [(24, 29, 1577)]
+fe_idx: [(-1, -1, 'Person', 3964)]
+tokenized_text: Ich behaupte , dass alle Kinder gewaltige Talente haben und dass wir sie vergeuden , und zwar ziemlich rücksichtslos .
+tokenized_lu_idx: ['-', '-', '-', '-', '-', 'kind.n', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', 'People_by_age', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-', '-']
+
+===============================
+====Annotation (`annoID` = 4518)====
+text: This really happened.
+frameName: Event
+frameID: 168
+luName: happen.v
+luID: 17170
+lu_idx: [(12, 19, 1)]
+fe_idx: [(0, 3, 'Event', 903), (5, 10, 'Manner', 3547)]
+tokenized_text: This really happened .
+tokenized_lu_idx: ['-', '-', 'happen.v', '-']
+tokenized_frame_idx: ['-', '-', 'Event', '-']
+tokenized_fe_idx: ['Event', 'Manner', '-', '-']
+
+====Annotation (`annoID` = 10714)====
+text: Das ist wirklich passiert.
+frameName: Event
+frameID: 168
+luName: passieren.v
+luID: 29950
+lu_idx: [(17, 24, 1577)]
+fe_idx: [(0, 2, 'Event', 903), (8, 15, 'Manner', 3547)]
+tokenized_text: Das ist wirklich passiert .
+tokenized_lu_idx: ['-', '-', '-', 'passieren.v', '-']
+tokenized_frame_idx: ['-', '-', '-', 'Event', '-']
+tokenized_fe_idx: ['Event', '-', 'Manner', '-', '-']
+
+===============================
+====Annotation (`annoID` = 4058)====
+text: And the girl said, 'I'm drawing a picture of God.'
+frameName: Physical_artworks
+frameID: 754
+luName: picture.n
+luID: 24308
+lu_idx: [(34, 40, 1)]
+fe_idx: [(42, 47, 'Represented', 6354), (34, 40, 'Artifact', 6347)]
+tokenized_text: And the girl said , ' I 'm drawing a picture of God . '
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'picture.n', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Physical_artworks', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Artifact', 'Represented', 'Represented', '-', '-']
+
+====Annotation (`annoID` = 9341)====
+text: Und das Mädchen sagte: 'Ich zeichne ein Bild von Gott.'
+frameName: Physical_artworks
+frameID: 754
+luName: bild.n
+luID: 29538
+lu_idx: [(40, 43, 1577)]
+fe_idx: [(45, 52, 'Represented', 6354)]
+tokenized_text: Und das Mädchen sagte : ' Ich zeichne ein Bild von Gott . '
+tokenized_lu_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', 'bild.n', '-', '-', '-', '-']
+tokenized_frame_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', 'Physical_artworks', '-', '-', '-', '-']
+tokenized_fe_idx: ['-', '-', '-', '-', '-', '-', '-', '-', '-', '-', 'Represented', 'Represented', '-', '-']
