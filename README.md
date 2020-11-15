@@ -25,3 +25,6 @@ The saved pretrained models is in `pretrained/model_and_embeddings.pt` and you c
 
 ### Evaluation
 The folder `evaluation/` contains two Jupyter notebooks that illustrate the five-fold nested cross validation evaluation of our proposed model and the UMAP representations of semantic frame embeddings.
+
+- `evaluation/Training_and_Evaluation_Multi_task_Learning_GAT_FrameNet.ipynb`: Training and evaluation of GAT models (with auxiliary tasks and five-fold nested cross-validation)
+- `evaluation/UMAP_frame_embeddings.ipynb`: UMAP representations of semantic frame embeddings with pre-trained models.
