@@ -17,3 +17,8 @@ The semantic frame shift datasets are found in the `data/` folder. Here are the 
 - `data/en-de.same.results.txt`: Annotation pairs of English-German parallel sentences with the same semantic frame labels
 - `data/en-pt.same.results.txt`: Annotation pairs of English-Brazilian Portuguese parallel sentences with the same semantic frame labels
 - `data/en-pt.results.txt`: Annotation pairs of English-Brazilian Portuguese parallel sentences with the diverging semantic frame labels
+
+### Pretrained Models
+Since we evaluate our model with a 5-fold Nested Cross Validation instead of train/validation/test split, our pretrained semantic frame embeddings is the average of all the five trained models. 
+
+The saved pretrained models is in `pretrained/model_and_embeddings.pt` and you can run `python3 load_model.py` on GPU to obtain the semantic frame embeddings.
